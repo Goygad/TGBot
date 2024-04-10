@@ -244,6 +244,15 @@
       }
     },
     {
+      "identity" : "swift-regular-expression",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nerzh/swift-regular-expression",
+      "state" : {
+        "revision" : "19c3e569a8e81da6f7f4ee3b73028c25737d3706",
+        "version" : "0.2.4"
+      }
+    },
+    {
       "identity" : "swift-service-lifecycle",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swift-server/swift-service-lifecycle.git",
@@ -259,6 +268,15 @@
       "state" : {
         "revision" : "025bcb1165deab2e20d4eaba79967ce73013f496",
         "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "telegram-vapor-bot",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nerzh/telegram-vapor-bot",
+      "state" : {
+        "revision" : "ddf8a5bd5dd4c8e58c3d31831b81644cf709e645",
+        "version" : "2.6.0"
       }
     },
     {
