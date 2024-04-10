@@ -1,6 +1,8 @@
 import Vapor
 import Logging
 
+let TGBOT: TGBotConnection = .init()
+
 @main
 enum Entrypoint {
     static func main() async throws {
